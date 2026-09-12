@@ -74,9 +74,8 @@ flowchart TD
 
 ## Installation
 
-No NuGet package has been published for this library yet — build it from source with CMake and
-either add it as a subdirectory of your own build, or install it and consume it with
-`find_package(AsposeEmailFoss)`.
+Build it from source with CMake and either add it as a subdirectory of your own build, or
+install it and consume it with `find_package(AsposeEmailFoss)`.
 
 ```cmake
 add_subdirectory(Aspose.Email-FOSS-for-Cpp)
